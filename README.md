@@ -4,7 +4,7 @@
 
 ## 🌐 ツールURL
 
-**https://toma-alec0726.github.io/analitics/**
+**https://toma-alec0726.github.io/graphic/**
 
 ---
 
